@@ -1,0 +1,5 @@
+# ninja log v5
+1	30976	1749328097685841567	/home/azzhang/Palu/3rdparty/fast-hadamard-transform/build/temp.linux-x86_64-cpython-310/csrc/fast_hadamard_transform.o	f415cbceb0eafef7
+1	175730	1749328242279989334	/home/azzhang/Palu/3rdparty/fast-hadamard-transform/build/temp.linux-x86_64-cpython-310/csrc/fast_hadamard_transform_cuda.o	b3321888784a4c01
+31	31245	1749668821581330599	/home/azzhang/Palu/3rdparty/fast-hadamard-transform/build/temp.linux-x86_64-cpython-310/csrc/fast_hadamard_transform.o	509b48ab9f7ed72c
+31	180061	1749668970242642546	/home/azzhang/Palu/3rdparty/fast-hadamard-transform/build/temp.linux-x86_64-cpython-310/csrc/fast_hadamard_transform_cuda.o	2c1e2b891dea6cd4
